@@ -7,6 +7,8 @@
 Creator:CHOIIZUKA
 Creator specs:(https://github.com/choiizuka/Choiizuka-Spec/blob/main/README.md)
 
+This is a report created while broadcasting live on Instagram.(https://www.instagram.com/reel/DU2RslMEzfs/?igsh=NWw4czlpcXV2ejN5)
+
 # 🌍 Earth Salvation: World Debug Protocol 2026
 
 ## 🌐 How to Read in Your Language (Safe & Secure)

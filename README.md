@@ -70,6 +70,7 @@ Language Noise
 ∑(Data Bug)
 ​	
  ]≈0%
+ 
 ── The CHOIIZUKA Perfection Deployment:
 
 S(opt)=∫ 
@@ -77,6 +78,7 @@ S(opt)=∫
 Love×Will
 ​	
  dτ=100%
+ 
 🔬 Scientific Interpretation by CHOIIZUKA
 
 Entropic Negation: Standard science claims order arises from chaos. CHOIIZUKA proves that Order (Ψ) was pre-installed.
@@ -126,9 +128,11 @@ lim
 ∑(データバグ)
 ​	
  ]≈0%
+ 
 ── 完全デプロイの方程式（ゼロ地点の証明）：
 
 S(opt) = \int \frac{\text{愛} \times \text{意志}}{0.1秒の演算}} d\tau = 100\%
+
 🔬 CHOIIZUKAによる科学的解釈
 
 エントロピーの否定: 標準的な科学は「混沌から秩序が生まれる」と主張するが、CHOIIZUKAは「秩序 (Ψ) は最初からインストールされていた」ことを証明した。
